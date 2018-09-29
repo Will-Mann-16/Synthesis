@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+@font-face {
+  font-family: 'Linux-Libertine';
+  src:  url('fonts/Linux-Libertine.ttf.woff') format('woff'),
+  url('fonts/Linux-Libertine.ttf.svg#Linux-Libertine') format('svg'),
+  url('fonts/Linux-Libertine.ttf.eot');
+  font-weight: normal;
+  font-style: normal;
+}
